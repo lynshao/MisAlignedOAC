@@ -11,6 +11,7 @@ pytorch>=0.4
 matlab>=2019a
 
 ## Run
+for example
 > python Main.py --Aligned 2 --phaseOffset 0 --Estimator 2 --gpu 0  
 
 
