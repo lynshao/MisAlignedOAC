@@ -12,6 +12,6 @@ pytorch>=0.4
 for example
 > python Main.py --Aligned 2 --phaseOffset 0 --Estimator 2 --gpu 0  
 
-Will be updted soon ...
+Will be updated soon ...
 
 
