@@ -8,10 +8,14 @@ python>=3.6
 
 pytorch>=0.4
 
-## Run
-for example
-> python Main.py --Aligned 2 --phaseOffset 0 --Estimator 2 --gpu 0  
+## RUN: perfect channel ->->-> no misalignments, no noise
+python main_fed_snr.py --Aligned 0
 
-Will be updated soon ...
+## RUN: channel misalignment, symbol misalignment, noise
+# maxDelay \in (0,1)
+# phaseOffset = 0->0; 1->pi/2; 2->3pi/4; 3->pi
+# Estimator = 1->aligned_sample,2->ML,3->SP-ML
+python main_fed_snr.py --Aligned 1 --maxDelay 0.9 --phaseOffset 0 --Estimator 1
+
 
 
