@@ -21,6 +21,8 @@ python main_fed_snr.py --Aligned 1 --maxDelay 0.9 --phaseOffset 0 --Estimator 1
 => Estimator = 1->aligned_sample,2->ML,3->SP-ML
 
 
+# Cite as
+
 If this repo helps, pls kindly cite our work as
 
 @article{Shao2021,
