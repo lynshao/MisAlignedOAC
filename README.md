@@ -15,15 +15,23 @@ python main_fed_snr.py --Aligned 0
 python main_fed_snr.py --Aligned 1 --maxDelay 0.9 --phaseOffset 0 --Estimator 1
 
 => maxDelay \in (0,1)
+
 => phaseOffset = 0->0; 1->pi/2; 2->3pi/4; 3->pi
+
 => Estimator = 1->aligned_sample,2->ML,3->SP-ML
 
 
 If this repo helps, pls kindly cite our work as
+
 @article{Shao2021,
+
   title={Federated edge learning with misaligned over-the-air computation},
+  
   author={Shao, Yulin and Gunduz, Deniz and Liew, Soung Chang},
+  
   journal={arXiv preprint arXiv:2102.13604},
+  
   year={2021}
+  
 }
 
