@@ -3,10 +3,15 @@
 This repository is the official implementation of paper [Federated Edge Learning with Misaligned Over-The-Air Computation] (https://arxiv.org/abs/2102.13604)
 
 > If you find this repository useful, please kindly cite as
+> 
 > @article{Shao2021,
+> 
 > title={Federated edge learning with misaligned over-the-air computation},
+> 
 > author={Shao, Yulin and Gunduz, Deniz and Liew, Soung Chang},
+> 
 > journal={arXiv preprint arXiv:2102.13604},
+> 
 > year={2021}
 > }
 
