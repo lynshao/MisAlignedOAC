@@ -8,7 +8,7 @@ This repository is the official implementation of paper [Federated Edge Learning
 > 
 > title={Federated Learning with Misaligned over-the-air computation},
 > 
-> author={Shao, Yulin and G\"und\"uz, Deniz and Liew, Soung Chang},
+> author={Shao, Yulin and Gunduz, Deniz and Liew, Soung Chang},
 > 
 > journal={IEEE Trans. Wireless Commun.},
 > 
