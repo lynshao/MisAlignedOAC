@@ -4,15 +4,14 @@ This repository is the official implementation of paper [Federated Edge Learning
 
 > If you find this repository useful, please kindly cite as
 > 
-> @article{Shao2021,
-> 
-> title={Federated edge learning with misaligned over-the-air computation},
-> 
-> author={Shao, Yulin and Gunduz, Deniz and Liew, Soung Chang},
-> 
-> journal={arXiv preprint arXiv:2102.13604},
-> 
-> year={2021}
+> @article{techFL,
+> title={Federated Learning with Misaligned over-the-air computation},
+> author={Shao, Yulin and G\"und\"uz, Deniz and Liew, Soung Chang},
+> journal={IEEE Trans. Wireless Commun.},
+> volume={21},
+> number={6},
+> pages={3951-3964},
+> year={2022}
 > }
 
 ## Requirements
